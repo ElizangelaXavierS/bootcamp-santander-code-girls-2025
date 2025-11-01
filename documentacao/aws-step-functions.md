@@ -57,4 +57,4 @@ Ele é ideal para aplicações distribuídas, micro-serviços, pipelines de dado
 
 ## 🧾 5. Referência e Leitura Recomendada
 
-sformar processos compostos de múltiplas etapas em workflows visuais, automatizados, auditáveis e escaláveis. Saber estruturar as máquinas de estado, escolher o tipo correto (Standard vs Express), aplicar boas práticas de erro/tratamento/paralelismo e manter a observabilidade são os passos chave para dominar a orquestração de workflows na AWS.
+[Documentação AWS - Step Functions](https://aws.amazon.com/pt/step-functions/)
